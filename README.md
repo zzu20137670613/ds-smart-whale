@@ -1,5 +1,7 @@
 # ds-smart-whale
 
+> ⚠️ **转载须知名**：本仓库内容（代码与素材）**转载必须注明原作者与出处**，**禁止任何商业使用**。
+
 A lightweight disk health monitor, originally built for a DeepSeek whale girl. （一个轻量级的硬盘健康监控工具，最初是为一位DeepSeek鲸鱼娘量身定制的。）
 
 Based on CrystalDiskInfo 9.9.2 Shizuku Edition, this tool replaces all Shizuku theme assets (backgrounds, character illustrations, copyright bar) with your own brand. Change brand by editing a single variable — DeepSeek, GPT, Claude, Kimi, or any name you like.
