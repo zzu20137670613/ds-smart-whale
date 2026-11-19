@@ -1,0 +1,14 @@
+# CDI binaries (original + generated) — users provide their own
+*.exe
+*.exe.bak
+
+# CDI runtime resources — not our code
+CdiResource/
+License/
+Smart/
+DiskInfo.ini
+*.ini
+
+# OS junk
+Thumbs.db
+Desktop.ini

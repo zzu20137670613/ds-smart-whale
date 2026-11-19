@@ -1,0 +1,21 @@
+【DeepSeek 鲸鱼娘 × 硬盘检测工具】开源啦！🐋
+
+之前发过截图的那个 DeepSeek 主题 CrystalDiskInfo，很多同好问怎么弄，干脆整理出来开源了。
+
+👇 这是啥？
+
+把 CrystalDiskInfo Shizuku Edition 的所有立绘、背景、版权条全换成了 DeepSeek 鲸鱼娘。硬盘健康时她对你笑，注意时她皱眉，损坏时她慌了——比你更关心你硬盘的状态。
+
+👇 怎么用？
+
+最简单的方式：去 Releases 页面下载压缩包，解压，双击 DeepSeek64S.exe（管理员运行），完事。
+
+想换成你自己的牌子（GPT / Claude / Kimi / 自家 OC）？把图片换成你的，改脚本顶部一个变量名，一行命令搞定。
+
+👇 地址
+
+GitHub：https://github.com/zzu20137670613/ds-smart-whale
+
+（不方便 GitHub 的可以私我拿压缩包）
+
+基于 CrystalDiskInfo 9.9.2 Shizuku Edition，原作者 hiyohiyo。本项目仅提供品牌替换工具。
